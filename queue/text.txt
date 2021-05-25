@@ -1,0 +1,7 @@
+Queues
+    First In -> First Out
+    - enqueue
+    - dequeue
+
+    Real life example:
+        Queue requests insted of hitting the server at once

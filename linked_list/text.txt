@@ -1,0 +1,19 @@
+Single Link list
+    Resembles a head(node) and pointer(tail) that points to the next head
+
+
+Double Link list
+    Resembles nodes that points to the next node and points to the previous node as well
+
+Circular Linked list
+    Head and Tail nodes points to each other
+
+Advantage:
+    Sequantial access
+    Adding, removing adds anywhere into the RAM and change pointers to fit to the linked list
+    Where, arrays needs to free/move elements in memory to make space 
+
+Disadvantage:
+    No direct access to elements, must traverse elments
+
+Real life example

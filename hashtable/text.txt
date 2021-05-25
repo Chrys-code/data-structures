@@ -1,0 +1,15 @@
+Hashtables 
+
+Generated values are stored in buckets
+
+Advantages:
+    - Extremely fast
+        - access
+        - insert
+        - removing values
+
+Hashing passwords
+ - password taken by a hash function that maps characters to letter & numbers
+ - irreversible
+ - consistent => same input, same output
+ - collision => two different input gives the same output

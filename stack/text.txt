@@ -1,0 +1,11 @@
+Stacks
+    Last In -> First Out
+    - push
+        Add new item on the top of the stack
+    - pop
+        Remove and return last item in the stack
+    - peak
+        Check list item in the stack 
+
+    Real life example:
+        Text editor undo-redo functions

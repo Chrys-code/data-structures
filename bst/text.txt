@@ -1,0 +1,20 @@
+Binary Tree
+    Each Node has a maximum of 2 children left & right
+
+Binary Search Tree
+    Type of binary tree that naturally stays sorted
+    As the following rule applies:
+        Left child always less than it's parent
+        Right child always more that it's parent
+
+    Perfect Tree: Same amount of nodes on both sides (rare)
+    Balanced: Roughly the same amount of nodes
+    Unbalanced: De difference between sides are obvious
+    Degenerate tree: linked list...,
+
+Advantage:
+    Extremely fast for:
+        Inserting elements
+        Deleting elements
+        Accessing elements
+        Even at large database sizes
